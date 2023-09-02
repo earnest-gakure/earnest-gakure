@@ -1,5 +1,5 @@
 nun- 👋 Hi, I’m @earnest-gakure
-- 👀 I’m interested in embedded systems coding and hacking 
+- 👀 My interest is on  embedded systems  
 - 🌱 I’m currently learning embedded systems 
 - 💞️ I’m looking to collaborate on solving problems as an embedded engineer
 - 📫 Reach me via email :earnestkihara7@gmail.com
